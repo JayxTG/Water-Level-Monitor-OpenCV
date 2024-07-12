@@ -24,7 +24,16 @@ The objective of this project is to create an automated system that can detect w
 - OpenCV
 - NumPy
 
-  ## 🎛️ How to Use
+
+## 📸 Sample Usage
+**Detecting Falls**
+Run the application, and it will start the webcam feed. The system will detect humans in the frame, draw stick figures around them, and display an alert if a fall is detected.
+
+## Dependencies
+- OpenCV
+- NumPy
+
+## 🎛️ How to Use
 
 1. **Clone the Repository**
 
@@ -46,14 +55,6 @@ Execute the main script to start the fall detection system:
    ```bash
    python src/fall_detection.py
 ```
-
-## 📸 Sample Usage
-**Detecting Falls**
-Run the application, and it will start the webcam feed. The system will detect humans in the frame, draw stick figures around them, and display an alert if a fall is detected.
-
-## Dependencies
-- OpenCV
-- NumPy
 
 ## 🏢 Acknowledgments
 - OpenCV community for the computer vision tools
