@@ -49,12 +49,12 @@ Run the application, and it will start the webcam feed. The system will detect h
 
     ```
 3. **Run the Application**
-
-Execute the main script to start the fall detection system:
+  Execute the main script to start the fall detection system:
 
    ```bash
    python src/fall_detection.py
-```
+   
+    ```
 
 ## 🏢 Acknowledgments
 - OpenCV community for the computer vision tools
