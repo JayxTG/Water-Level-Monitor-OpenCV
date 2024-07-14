@@ -39,7 +39,7 @@ Run the application, and it will start the webcam feed. The system will detect h
 
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Water-Level-Monitor-OpenCV.git
+   git clone https://github.com/JayxTG/Water-Level-Monitor-OpenCV.git
     ```
 2. **Install Dependencies**
  Navigate to the project directory and install the required dependencies:
