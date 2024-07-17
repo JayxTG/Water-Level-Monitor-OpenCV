@@ -22,6 +22,7 @@ The objective of this project is to create an automated system that can detect w
 
 ### Software:
 - OpenCV
+- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 - NumPy
 
 
